@@ -8,7 +8,7 @@ A web application that helps you to find like-minded developers, connect with id
    ![screenshot2](screenshot/screenshot2.jpg)
    ![screenshot3](screenshot/screenshot3.jpg)
 - ### Dark Mode
-   ![home page](screenshot/homedark.png)
+   ![screenshot4](screenshot/screenshot4.png)
 
 ## Installation
 1. Clone this repository:
