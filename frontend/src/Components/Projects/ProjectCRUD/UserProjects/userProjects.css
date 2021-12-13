@@ -1,0 +1,124 @@
+body {
+  font-family: "lato", sans-serif;
+}
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h2 {
+  font-size: 26px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+h2 > small {
+  font-size: 0.5em;
+}
+
+table {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+table td {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  vertical-align: center;
+}
+
+table td:first-child {
+  border-left: none;
+}
+
+table th {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 30px;
+  text-align: center;
+  vertical-align: center;
+}
+
+table th:first-child {
+  border-left: none;
+}
+
+.table > li {
+  padding: 25px 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.table-header {
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.table-footer {
+  background-color: #ffffff;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  width: 50%;
+}
+.table-row {
+  background-color: #fafafa;
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+.responsive-table > .col-1 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-2 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-3 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-4 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-5 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-6 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-7 {
+  flex-basis: 13%;
+}
+.responsive-table > .col-8 {
+  flex-basis: 13%;
+}
+/* @media all and (max-width: 767px) {
+    .table-header {
+      display: none;
+    }
+    .table-row {
+    }
+    li {
+      display: block;
+    }
+    .col {
+      flex-basis: 100%;
+    }
+    .col {
+      display: flex;
+      padding: 10px 0;
+      &:before {
+        color: #6c7a89;
+        padding-right: 10px;
+        content: attr(data-label);
+        flex-basis: 50%;
+        text-align: right;
+      }
+    }
+  } */

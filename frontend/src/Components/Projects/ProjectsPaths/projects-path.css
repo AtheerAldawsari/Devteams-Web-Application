@@ -1,0 +1,110 @@
+.paths {
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 20px;
+  margin-left: 165px;
+  margin-bottom: 100px;
+}
+
+.paths-div {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/web.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
+
+.paths-div2 {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/android.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
+
+.paths-div3 {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/ios.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
+
+.paths-div4 {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/ux.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
+
+.paths-div5 {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/ui.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
+
+.paths-div6 {
+  background-color: #ffffff;
+  background-image: url("../../../img/imgPath/security.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 330px 450px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0.0001em 0 #bbbbbb, 0 0 0.2em 0 #02304756;
+  font-family: "Varela Round", sans-serif;
+  width: 330px;
+  height: 450px;
+  margin-top: 50px;
+  margin-right: auto;
+}
