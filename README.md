@@ -35,7 +35,7 @@ npm start
 Send all feedback to [AtheerMohmed@hotmail.com](mailto:AtheerMohmed@hotmail.com)
 
 ## Contact
-- [Behance](https://www.behance.net/atheermohmed)
 - [Linkedin](https://www.linkedin.com/in/atheer-aldosari/)
+- [Behance](https://www.behance.net/atheermohmed)
 - [Email](mailto:AtheerMohmed@hotmail.com)
 
